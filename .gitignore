@@ -5,3 +5,5 @@ RemoteSystemsTempFiles/
 .classpath
 bin/
 .settings/
+Servers/
+MANIFEST.MF
